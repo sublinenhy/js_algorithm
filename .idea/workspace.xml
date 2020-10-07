@@ -26,9 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="194c7aad-870d-418a-b403-7d109fde808c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2020-10-6/merge_two_lists.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020-10-7/majority_element_plus.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +58,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2020-10-6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2020-10-7" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2020-10-7" />
       <recent name="$PROJECT_DIR$/2020-10-6" />
       <recent name="$PROJECT_DIR$/2020-10-5" />
       <recent name="$PROJECT_DIR$" />
@@ -88,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601475068261</updated>
       <workItem from="1601475069320" duration="18595000" />
-      <workItem from="1601965148111" duration="7272000" />
+      <workItem from="1601965148111" duration="8223000" />
     </task>
     <servers />
   </component>
