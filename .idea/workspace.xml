@@ -26,9 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="194c7aad-870d-418a-b403-7d109fde808c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2020-10-27/zigzag_conversion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2020-10-27/string_to_integer_atoi.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +59,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2020-10-27" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -107,7 +106,8 @@
       <updated>1601475068261</updated>
       <workItem from="1601475069320" duration="18595000" />
       <workItem from="1601965148111" duration="21432000" />
-      <workItem from="1603774024161" duration="4170000" />
+      <workItem from="1603774024161" duration="8124000" />
+      <workItem from="1605615103164" duration="87000" />
     </task>
     <servers />
   </component>
@@ -271,7 +271,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/2020-10-27/zigzag_conversion.js</url>
           <line>31</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
