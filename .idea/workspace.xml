@@ -26,13 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="194c7aad-870d-418a-b403-7d109fde808c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2020-12-29/open_the_lock.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/utils.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2020-12-28/minimum_depth_of_binary_tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/2020-12-28/minimum_depth_of_binary_tree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2020-12-29/open_the_lock.js" beforeDir="false" afterPath="$PROJECT_DIR$/2020-12-29/open_the_lock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/utils.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/utils.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +78,33 @@
       <recent name="$PROJECT_DIR$/2020-10-4" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.测试位置j的滚轮向上拨动一次，实现+1效果">
+  <component name="RunManager" selected="Jest.752.打开转盘锁 (1)">
+    <configuration name="752.打开转盘锁 (1)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/utils.test.js" />
+      <test-names>
+        <test-name value="752.打开转盘锁" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="752.打开转盘锁" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/2020-12-29/open_the_lock.js" />
+      <test-names>
+        <test-name value="752.打开转盘锁" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <configuration name="测试位置j的滚轮向下拨动一次，实现-1效果" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -127,6 +149,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.752.打开转盘锁 (1)" />
+        <item itemvalue="Jest.752.打开转盘锁" />
         <item itemvalue="Jest.测试位置j的滚轮向上拨动一次，实现+1效果" />
         <item itemvalue="Jest.测试位置j的滚轮向下拨动一次，实现-1效果" />
         <item itemvalue="Jest.测试位置j的滚轮向上拨动一次，实现+1效果，4399 -&gt; 4390" />
@@ -153,7 +177,7 @@
       <workItem from="1604928057831" duration="5074000" />
       <workItem from="1606285083968" duration="3210000" />
       <workItem from="1608466355748" duration="12419000" />
-      <workItem from="1609218555994" duration="5053000" />
+      <workItem from="1609218555994" duration="8266000" />
     </task>
     <servers />
   </component>
