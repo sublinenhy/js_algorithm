@@ -34,3 +34,4 @@ l1.next.next.next.next = l1.next;
 test("141.环形链表", () => {
     expect(hasCycle(l1)).toBe(true);
 })
+
