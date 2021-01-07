@@ -26,7 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="194c7aad-870d-418a-b403-7d109fde808c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2021-1-3/partition_list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-1-7/maximum_points_you_can_obtain_from_cards.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/utils.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/utils.test.js" afterDir="false" />
     </list>
@@ -60,7 +60,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021-1-3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021-1-7" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
@@ -68,17 +68,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dev\Algorithm\js_algorithm\2021-1-7" />
       <recent name="D:\Dev\Algorithm\js_algorithm\2021-1-3" />
       <recent name="D:\Dev\Algorithm\js_algorithm\2020-12-29" />
       <recent name="D:\Dev\Algorithm\js_algorithm\2020-12-28" />
       <recent name="D:\Dev\Algorithm\js_algorithm\2020-12-23" />
-      <recent name="D:\Dev\Algorithm\js_algorithm\2020-12-20" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/2020-10-4" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.86.分隔链表">
+  <component name="RunManager" selected="Jest.1423. 可获得的最大点数">
     <configuration name="141.环形链表" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -89,6 +89,19 @@
       <test-file value="$PROJECT_DIR$/test/utils.test.js" />
       <test-names>
         <test-name value="141.环形链表" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="1423. 可获得的最大点数" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/utils.test.js" />
+      <test-names>
+        <test-name value="1423. 可获得的最大点数" />
       </test-names>
       <method v="2" />
     </configuration>
@@ -131,29 +144,16 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="测试位置j的滚轮向上拨动一次，实现+1效果" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/test/utils.test.js" />
-      <test-names>
-        <test-name value="测试位置j的滚轮向上拨动一次，实现+1效果" />
-      </test-names>
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="JavascriptDebugType" uri="http://127.0.0.1:63342/js_algorithm/main.html">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.1423. 可获得的最大点数" />
         <item itemvalue="Jest.86.分隔链表" />
         <item itemvalue="Jest.141.环形链表" />
         <item itemvalue="Jest.752.打开转盘锁 (1)" />
         <item itemvalue="Jest.752.打开转盘锁" />
-        <item itemvalue="Jest.测试位置j的滚轮向上拨动一次，实现+1效果" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +177,7 @@
       <workItem from="1604928057831" duration="5074000" />
       <workItem from="1606285083968" duration="3210000" />
       <workItem from="1608466355748" duration="12419000" />
-      <workItem from="1609218555994" duration="16934000" />
+      <workItem from="1609218555994" duration="19188000" />
     </task>
     <servers />
   </component>
@@ -269,6 +269,12 @@
           <line>12</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/2021-1-7/maximum_points_you_can_obtain_from_cards.js</url>
+          <line>9</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

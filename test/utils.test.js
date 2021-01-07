@@ -1,6 +1,7 @@
 const utils = require("./utils");
 const openLock = require("../2020-12-29/open_the_lock")
 const hasCycle = require("../2021-1-3/linked_list_cycle")
+const maxScore = require("../2021-1-7/maximum_points_you_can_obtain_from_cards")
 const {test} = require("@jest/globals");
 
 test("测试位置j的滚轮向上拨动一次，实现+1效果", () => {
@@ -33,5 +34,12 @@ l1.next.next.next.next = l1.next;
 
 test("141.环形链表", () => {
     expect(hasCycle(l1)).toBe(true);
+})
+
+test("1423. 可获得的最大点数", () => {
+    expect(maxScore([1,2,3,4,5,6,1], 3)).toBe(12);
+    expect(maxScore([2,2,2], 2)).toBe(4);
+    expect(maxScore([9,7,7,9,7,7,9], 7)).toBe(55);
+    expect(maxScore([1,79,80,1,1,1,200,1], 3)).toBe(202);
 })
 
