@@ -26,7 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="194c7aad-870d-418a-b403-7d109fde808c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2021-1-7/maximum_points_you_can_obtain_from_cards.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-1-28/letter_combinations_of_a_phone Number.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-1-8/longest_increasing_subsequence.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/utils.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/utils.test.js" afterDir="false" />
     </list>
@@ -60,7 +61,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021-1-7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2021-1-28" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
@@ -68,17 +69,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dev\Algorithm\js_algorithm\2021-1-28" />
+      <recent name="D:\Dev\Algorithm\js_algorithm\2021-1-8" />
       <recent name="D:\Dev\Algorithm\js_algorithm\2021-1-7" />
       <recent name="D:\Dev\Algorithm\js_algorithm\2021-1-3" />
       <recent name="D:\Dev\Algorithm\js_algorithm\2020-12-29" />
-      <recent name="D:\Dev\Algorithm\js_algorithm\2020-12-28" />
-      <recent name="D:\Dev\Algorithm\js_algorithm\2020-12-23" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/2020-10-4" />
     </key>
   </component>
-  <component name="RunManager" selected="Jest.1423. 可获得的最大点数">
+  <component name="RunManager" selected="Jest.17. 电话号码的字母组合">
     <configuration name="141.环形链表" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -105,7 +106,7 @@
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="752.打开转盘锁 (1)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="17. 电话号码的字母组合" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
@@ -114,20 +115,20 @@
       <scope-kind value="TEST" />
       <test-file value="$PROJECT_DIR$/test/utils.test.js" />
       <test-names>
-        <test-name value="752.打开转盘锁" />
+        <test-name value="17. 电话号码的字母组合" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="752.打开转盘锁" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="300. 最长递增子序列" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/2020-12-29/open_the_lock.js" />
+      <test-file value="$PROJECT_DIR$/test/utils.test.js" />
       <test-names>
-        <test-name value="752.打开转盘锁" />
+        <test-name value="300. 最长递增子序列" />
       </test-names>
       <method v="2" />
     </configuration>
@@ -149,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.17. 电话号码的字母组合" />
+        <item itemvalue="Jest.300. 最长递增子序列" />
         <item itemvalue="Jest.1423. 可获得的最大点数" />
         <item itemvalue="Jest.86.分隔链表" />
         <item itemvalue="Jest.141.环形链表" />
-        <item itemvalue="Jest.752.打开转盘锁 (1)" />
-        <item itemvalue="Jest.752.打开转盘锁" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +178,10 @@
       <workItem from="1604928057831" duration="5074000" />
       <workItem from="1606285083968" duration="3210000" />
       <workItem from="1608466355748" duration="12419000" />
-      <workItem from="1609218555994" duration="19188000" />
+      <workItem from="1609218555994" duration="21524000" />
+      <workItem from="1610078693456" duration="5883000" />
+      <workItem from="1611065283590" duration="1206000" />
+      <workItem from="1611840140206" duration="1658000" />
     </task>
     <servers />
   </component>
@@ -267,16 +271,20 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/test/utils.js</url>
           <line>12</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/2021-1-7/maximum_points_you_can_obtain_from_cards.js</url>
-          <line>9</line>
+          <url>file://$PROJECT_DIR$/2021-1-28/letter_combinations_of_a_phone Number.js</url>
+          <line>39</line>
           <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="34" />
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JavaScriptTestRunnerJest">
+        <watch expression="res" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
